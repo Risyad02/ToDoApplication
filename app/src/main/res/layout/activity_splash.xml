@@ -14,12 +14,12 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        android:text="To Do App"
+        android:text="ToDoList App"
         android:textColor="@color/colorWhite"
         android:textSize="40sp"
         android:textStyle="bold"
         android:drawablePadding="15dp"
-        android:drawableRight="@drawable/ic_baseline_done_all_24"
+        android:drawableRight="@drawable/ic_baseline_apps_24"
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
